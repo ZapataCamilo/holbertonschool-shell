@@ -1,2 +1,2 @@
 #!/bin/bash
-find /holbertonschool-shell/permissions -type d -exec chmod 755 {}+
+find d* -maxdepth 1 -name /holbertonschool-shell/permissions -type d -exec chmod 774 "{}" \;
