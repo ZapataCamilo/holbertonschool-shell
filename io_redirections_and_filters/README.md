@@ -11,3 +11,5 @@ shell Redirections
 4.cat /etc/passwd | tail: this script print the 10 last lines in the directory
 
 5.cat /etc/passwd | head: this script print the 10 firts lines in the directory
+
+6.head -n 3 iacta | tial -n 1: this script print the third line of the file iacta
