@@ -14,3 +14,5 @@ shell Redirections
 6.head -n 3 iacta | tial -n 1: this script print the third line of the file iaca
 
 7.echo "Best School" > "\*\\\'\"Best School\"\'\\\*$\?\*\*\*\*\*:)": this script create a file with Best School inside
+
+8.ls -la > ls_cwd_content:this script is to redirec the ls -la comand to the file   
