@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type d | cut -d .gf | rev
+find . -type d -name ".gif" | rev |cut -d "/" -f 1 | rev
