@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Rlt *.gif
+ls -Rlt *.gif | rev
