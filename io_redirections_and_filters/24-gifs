@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Rlt *.gif | rev
+find -type d | cut -d .gf | rev
