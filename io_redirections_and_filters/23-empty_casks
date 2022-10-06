@@ -1,2 +1,2 @@
 #!/bin/bash
-find . type d f ! -path . -print | ls -l
+find . -type f -empty -print -type d -empty -print 
