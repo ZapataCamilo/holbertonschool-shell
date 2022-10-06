@@ -1,2 +1,2 @@
 #!/bin/bash
-rev /etc/ssh/sshd_config
+rev 
