@@ -1,2 +1,2 @@
 #!/bin/bash
-tr "c C" | cut
+tr "c C" ""
