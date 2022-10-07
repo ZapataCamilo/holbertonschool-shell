@@ -1,2 +1,2 @@
 #!/bin/bash
-NUM="0.00" | echo $NUM
+printf '%.2f\n' $NUM
