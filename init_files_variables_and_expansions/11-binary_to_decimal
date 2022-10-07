@@ -1,2 +1,2 @@
 #!/bin/bash
-echo BINARY="2" | tr "2" "10"
+BINARY="2" |echo "$((BINARY*5))"
