@@ -1,2 +1,2 @@
 #!/bin/bash
-export POWER="power" | export DIVIDE="divide" |echo " $BREATH  $((BREATH^LOVE))"
+export POWER="power" | export DIVIDE="divide" |echo "$((BREATH+LOVE))^LOVE"
