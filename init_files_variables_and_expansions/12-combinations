@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}-{a..z} | tr -d "-" | tr " " "-" | tr "-" "\n"	 
+echo {a..z}-{a..z} | tr -d "-" | tr " " "-" | tr "-" "\n" | head -10 | tail -54	  
